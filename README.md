@@ -9,3 +9,8 @@ Radar-based human activity recognition (HAR) holds significant application value
 - Pytorch 2.2.2
 - NVIDIA GPU + CUDA
 - Python packages: numpy, torchvision, PIL
+
+# Train and test
+
+# Citation
+If you find it is useful in your research, please cite:
