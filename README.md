@@ -13,6 +13,3 @@ Radar-based human activity recognition (HAR) holds significant application value
 # Test
 The test data is provided in the file **"test data.zip"**, and the pre-trained model parameters are available in **"model.zip"**. To run the test, simply update the data and model paths in **test.py** accordingly.
 
-
-# Citation
-%If you find it is useful in your research, please cite:
