@@ -15,4 +15,4 @@ The test data is provided in the file **"test data.zip"**, and the pre-trained m
 
 
 # Citation
-If you find it is useful in your research, please cite:
+%If you find it is useful in your research, please cite:
